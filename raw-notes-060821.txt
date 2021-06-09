@@ -1,0 +1,26 @@
+ROSE CITY BRASS QUINTET PUBLISHING
+Raw Notes 060821
+
+MERN stack
+Link in nav header "Publishing" to open a new tab with subdomain "shop"
+
+FE will be SPA hosted on Netlify
+Backend Mongo DB hosted on Heroku or AWS
+No Users, but will store Customer
+List of works with Checkout/Cart Modal (or Drawer, example: https://codyhouse.co/ds/components/app/drawer)
+Works can be delivered as PDF or snail mail.
+PDF to be limited downloads?
+Admin will be notified by order
+
+Preview PDF will have title page intact, all other pages jagged diagonal cut
+
+Stripe for payments (maybe Venmo or Paypal)
+
+Header and Footer same as main site
+
+FAQ/Resources on printed music and orders, PDF downloads
+
+Default list sort will be alphabetical by composer
+Search by composer name, work name
+
+Data structure for: Item, Order, Customer
